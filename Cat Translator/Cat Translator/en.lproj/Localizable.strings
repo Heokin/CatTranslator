@@ -1,0 +1,103 @@
+/* 
+  Localizable.strings
+  Cat Translator
+
+  Created by Kirill Sedliarov on 5.12.22.
+  
+*/
+
+"firstOnBoardingHeaderUp" = "Cat Translator";
+"firstOnBoardingHeaderDown" = "Speak & Play";
+
+"secondOnBoardingHeaderUp" = "Express Emotions";
+"secondOnBoardingHeaderDown" = "with Sounds";
+
+"textHelperHuman" = " to record your voice ";
+"textHelperCatFirst" = "Hold ";
+"textHelperCatSecond" = " to record your pet's voice ";
+
+"buttonBack" = "Translator";
+
+"gameButton" = "Game";
+"emotionsButton" = "Emotions";
+"unlockButton" = "Unlock All Features";
+"freeButton" = "Get Free";
+
+"continueOnBoarding" = "Continue";
+
+"subscribeFreeTrial" = "7-day
+free trial";
+
+"subscribeHeader" = "Unlock All Access";
+"subscribeTitleLim" = "No Limits";
+"subscribeTitleAds" = "No Ads";
+
+"subscribeWeekly" = "Weekly";
+"subscribeYearly" = "Yearly";
+"subscribeMonthly" = "Monthly";
+
+"titleEmotions" = "Emotions";
+"titleTranslator" = "Translator";
+"titleSetting" = "Settings";
+
+"settingUnlock" = "Unlock All Features";
+"settingRateUs" = "Rate Us";
+"settingSupport" = "Support";
+"settingPrivacyPolicy" = "Privacy Policy";
+"settingTermsOfUse" = "Terms of Use";
+"settingShareTheApp" = "Share the App";
+
+"buttonDone" = "Done";
+"buttonRestore" = "Restore";
+"buttonBack" = "Back";
+
+"mainLevel" = "Exit";
+"nextLevel" = "Play Again";
+"congrats" = "Сongratulations!";
+"refresh" = "New Game";
+
+"sharing" = "Look! This fun app will help you communicate with your cat: ";
+
+"alertOk" = "OK";
+"alertYes" = "Yes";
+"alertNo" = "No";
+"alertCancel" = "Cancel";
+"alertSetting" = "Setting";
+"alertDontAllow" = "Don't Allow";
+"alertRate" = "Do You Like This App?";
+
+"alertRecognizeHeader" = "Can’t Recognize Your Speech";
+"alertRecognizeText" = "Please try to talk louder";
+
+"alertRestore" = "No Subscription Found";
+"alertRestoreDiscription" = "You have not previously subscribed to
+\"Cat Translator\" using this Apple ID.";
+
+"alertMicrophonePermission" = "Microphone Permission";
+"alertPermissionDenied" = "This app uses the microphone to
+record your speech and convert it to
+animal language. Please set
+microphone usage permission in
+settings for work";
+
+
+"emotionsYes" = "Yes!";
+"emotionsHello" = "Hello!";
+"emotionsNo" = "No";
+"emotionsBuble" = "Let's play";
+"emotionsAngry" = "Angry";
+"emotionsSad" = "Sad";
+"emotionsCry" = "Cry";
+"emotionsFroze" = "I Froze";
+"emotionsLonely" = "Lonely";
+"emotionsHappy" = "Happy";
+"emotionsWhat" = "What?";
+"emotionsBath" = "Bath";
+"emotionsFear" = "Fear";
+"emotionsAttention" = "Attention";
+"emotionsHungry" = "I'm Hungry";
+"emotionsSuprised" = "Suprised";
+"emotionsSleepy" = "Sleepy";
+"emotionsAmazed" = "Amazed";
+"emotionsLove" = "Love";
+"emotionsYummy" = "Yummy";
